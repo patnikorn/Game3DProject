@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Plant_2_01.obj-e1748a96b2c4a99b7a70b357f8bb881a.mesh"
+
+[deps]
+
+files=[ "res://.import/Plant_2_01.obj-e1748a96b2c4a99b7a70b357f8bb881a.mesh" ]
+
+source_file="res://Models/Plant_2_01.obj"
+dest_files=[ "res://.import/Plant_2_01.obj-e1748a96b2c4a99b7a70b357f8bb881a.mesh", "res://.import/Plant_2_01.obj-e1748a96b2c4a99b7a70b357f8bb881a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
